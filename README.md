@@ -39,6 +39,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img style='height: 30px;' src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white" />
   <img style='height: 30px;' src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img style='height: 30px;' src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 <!-- Control de Versiones -->
 <h3>🔧 Control de Versiones</h3>
