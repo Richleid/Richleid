@@ -78,8 +78,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Richleid&layout=compact)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Richleid&show_icons=true&count_private=true)  
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Richleid&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Richleid&show_icons=true&hide_border=true&theme=radical)
 
 ---
 
