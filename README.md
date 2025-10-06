@@ -77,6 +77,12 @@
 </div>
 
 ---
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
 
 ## 📊 GitHub Stats
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Richleid&layout=compact&theme=radical)  
